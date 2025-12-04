@@ -21,7 +21,6 @@ Ensure you have the following installed on your system:
 Follow these steps for both the backend (root: `/backend`) and frontend (root: `/client`).
 
 **1. Clone the repository**
-```bash
 git clone [https://github.com/Dhanush463/VoiceEnabledTaskCreation.git](https://github.com/Dhanush463/VoiceEnabledTaskCreation.git)
 cd VoiceEnabledTaskCreation
 
