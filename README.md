@@ -44,20 +44,22 @@ npm run dev
 
 ## 5. Tech Stack
 
-Component -	Technology -	Key Libraries/Dependencies
-Frontend - React 19	- axios, react-router-dom, @hello-pangea/dnd (Drag-and-Drop), react-speech-recognition.
-Backend -	Node.js + Express.js (MERN) -	express, cors, dotenv, mongoose.
-Database (DB) -	MongoDB -	mongoose (ODM).
-AI -	Google GenAI (Gemini API) -	@google/genai
-AI Utility -	Chrono-Node -	chrono-node (Natural language date parser).
+Component |	Technology | Key Libraries/Dependencies |
+| :--- | :--- | :--- |
+| **Frontend** |  React 19	| axios, react-router-dom, @hello-pangea/dnd (Drag-and-Drop), react-speech-recognition. |
+| **Backend** |	Node.js + Express.js (MERN) | express, cors, dotenv, mongoose. |
+| **Database (DB)** | MongoDB |	mongoose (ODM).|
+| **AI** | Google GenAI (Gemini API) | @google/genai |
+| **AI Utility** | Chrono-Node | chrono-node (Natural language date parser). |
 
 ## 6. API Documentation
 #The backend API runs on port 5000 (e.g., http://localhost:5000/api/tasks
-Method - Path	- Description
-GET	- /api/tasks - Fetches all tasks.
-POST - /api/tasks	- Creates a new task (text or voice-parsed).
-PUT	- /api/tasks/:id	- Updates a task (e.g., status, content).
-DELETE - /api/tasks/:id	- Deletes a task.
+| Method | Path	| Description |
+| :--- | :--- | :--- |
+| **GET** | /api/tasks | Fetches all tasks. |
+| **POST** | /api/tasks	| Creates a new task (text or voice-parsed). |
+| **PUT** | /api/tasks/:id	| Updates a task (e.g., status, content). |
+| **DELETE** | /api/tasks/:id | Deletes a task. |
 
 ## 7.Decisions & Assumptions
 
