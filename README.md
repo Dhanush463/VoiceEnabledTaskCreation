@@ -1,4 +1,4 @@
-# SDE Assignment - Voice-Enabled Task Tracker
+# Voice-Enabled Task Tracker
 
 This project is a full-stack, voice-enabled task management application. It allows users to create, categorize, and manage tasks using natural language voice commands, which are parsed and processed by a generative AI model.
 
